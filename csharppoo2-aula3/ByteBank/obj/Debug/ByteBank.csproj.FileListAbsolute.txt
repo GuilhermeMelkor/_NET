@@ -1,0 +1,7 @@
+C:\Projetos\csharppoo2-aula3\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Projetos\csharppoo2-aula3\ByteBank\bin\Debug\ByteBank.exe
+C:\Projetos\csharppoo2-aula3\ByteBank\bin\Debug\ByteBank.pdb
+C:\Projetos\csharppoo2-aula3\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Projetos\csharppoo2-aula3\ByteBank\obj\Debug\ByteBank.exe
+C:\Projetos\csharppoo2-aula3\ByteBank\obj\Debug\ByteBank.pdb
+C:\Projetos\csharppoo2-aula3\ByteBank\obj\Debug\ByteBank.csprojResolveAssemblyReference.cache
